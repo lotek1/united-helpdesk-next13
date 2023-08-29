@@ -16,8 +16,6 @@ export default function Navbar() {
       <Link href="/">Dashboard</Link>
       <Link href="/tickets">Tickets</Link>
       <Link href="/tickets/create">Create</Link>
-      <Link href="/signup">Signup</Link>
-      <Link href="/login">Login</Link>
     </nav>
   );
 }
